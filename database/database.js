@@ -48,8 +48,9 @@ const publication = [
     {
         id:2,
         name:"writon",
-        books:["12345loves"]
-    }
+        books:[]
+    },
+
 ]
 
 module.exports ={books ,author ,publication};
